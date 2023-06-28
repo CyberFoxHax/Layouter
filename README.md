@@ -1,6 +1,8 @@
 # Layouter
 WPF like layout engine for HTML to avoid having to deal with layout within CSS.
 
+Note: It doesn't support scrolling stack layouts yet... so it's useless
+
 ```XML
 <!DOCTYPE html>
 <html>
